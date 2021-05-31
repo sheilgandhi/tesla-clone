@@ -7,3 +7,5 @@ Uses Styled Components
 Images found from Clever Programmer
 
 Material UI
+
+React Reveal
