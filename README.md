@@ -1,5 +1,7 @@
 # Tesla Clone
 
+Live Demo: https://tesla-clone-sg.netlify.app/
+
 Project Initialised using Create React App with Redux Template
 
 Uses Styled Components
